@@ -9,6 +9,11 @@ class MainActivity : AppCompatActivity() {
         setContentView(R.layout.activity_main)
     }
 
+
+    fun bella(){
+      
+    }
+
     fun add(){
         // insert code here
     }
